@@ -1,4 +1,4 @@
-# Qwiic_BNO055
+# Zio Qwiic 9DOF IMU BNO055
 
 ![](imu-bno055.png)
 
